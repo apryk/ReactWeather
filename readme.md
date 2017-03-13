@@ -1,3 +1,1 @@
 React Weather Application
-
-Test
